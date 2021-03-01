@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="controllers" />
+        <module name="categories" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="categories" target="15" />
+      <module name="controllers" target="15" />
+      <module name="newsportal" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="categories" options="-parameters" />
+      <module name="controllers" options="-parameters" />
+    </option>
+  </component>
+</project>
