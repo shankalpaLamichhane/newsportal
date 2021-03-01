@@ -6,12 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="controllers" />
         <module name="categories" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="categories" target="15" />
+      <module name="categories" target="11" />
       <module name="controllers" target="15" />
       <module name="newsportal" target="11" />
     </bytecodeTargetLevel>
