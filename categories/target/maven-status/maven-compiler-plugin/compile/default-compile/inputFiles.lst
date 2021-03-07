@@ -1,1 +1,10 @@
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/controllers/v1/CategoryController.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/services/CategoryServiceImpl.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/services/CategoryService.java
 /media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/MvcRestApplication.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/domain/Category.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/repositories/CategoryRepository.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/api/v1/mapper/CategoryMapper.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/api/v1/model/CategoryDTO.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/services/exceptions/ResourceNotFoundException.java
+/media/sankalpa/New Volume/courses/concepts/spring/portal/newsportal/categories/src/main/java/com/newsportal/bootstrap/Bootstrap.java

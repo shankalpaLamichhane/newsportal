@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/categories/categories.iml" filepath="$PROJECT_DIR$/categories/categories.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/newsportal.iml" filepath="$PROJECT_DIR$/.idea/newsportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsportal.iml" filepath="$PROJECT_DIR$/newsportal.iml" />
     </modules>
   </component>
 </project>
